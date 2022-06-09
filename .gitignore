@@ -1,1 +1,9 @@
 /node_modules
+
+/coverage
+
+/dist
+
+.env
+
+SOLID.md
